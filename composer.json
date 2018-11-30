@@ -1,0 +1,27 @@
+{
+    "name": "thephpx/laraveldemopack",
+    "description": "Demo Pack for laravel",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Faisal Ahmed",
+            "email": "thephpx@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.9"
+    },
+    "autoload": {
+        "psr-4": {
+            "Thephpx\\laraveldemopack\\": "src/"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Thephpx\\laraveldemopack\\providers\\LaraveldemopackServiceProvider"
+            ]
+        }
+    },
+}
