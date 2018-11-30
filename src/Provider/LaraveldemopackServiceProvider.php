@@ -1,6 +1,6 @@
 <?php
 
-namespace Thephpx\laraveldemopack\providers;
+namespace Thephpx\laraveldemopack\provider;
 
 use Illuminate\Support\ServiceProvider;
 
