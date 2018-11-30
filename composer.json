@@ -23,5 +23,5 @@
                 "Thephpx\\laraveldemopack\\providers\\LaraveldemopackServiceProvider"
             ]
         }
-    },
+    }
 }
