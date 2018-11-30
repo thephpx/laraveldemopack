@@ -20,7 +20,7 @@
     "extra": {
         "laravel": {
             "providers": [
-                "Thephpx\\laraveldemopack\\LaraveldemopackServiceProvider"
+                "Thephpx\\laraveldemopack\\Provider\\LaraveldemopackServiceProvider"
             ]
         }
     }
